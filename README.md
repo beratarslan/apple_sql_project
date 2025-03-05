@@ -39,6 +39,8 @@ The project uses five main tables:
    - `sale_id`: References the sales table.
    - `repair_status`: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
 
+![ERD Diagram](images/erd_diagram.png)
+
 ### Easy to Medium (10 Questions)
 
 1. Find the number of stores in each country.
