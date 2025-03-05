@@ -14,9 +14,7 @@ PLEASE READ THIS
 4. Import to Sales TABLE
 5. Import to Warranty Table
 
-For any issues reach out to below
-dm on insta -- https://www.instagram.com/zero_analyst/
-email najir@zeroanalyst.com
+
 */
 
 -- DROP TABLE command
