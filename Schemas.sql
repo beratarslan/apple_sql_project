@@ -1,6 +1,3 @@
--- Apple Retails Millions Rows Sales Schemas
-
-
 
 /*
 IMPORTANT PROJECT GUIDANCE 
