@@ -1,9 +1,6 @@
 
-# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# Apple SQL Project
 ![Apple Members](images/apple_members.jpg)
-## Project Overview
-
-This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, you'll demonstrate your ability to write sophisticated SQL queries that extract valuable insights from large datasets.
 
 ## Database Schema
 
@@ -70,21 +67,16 @@ The project uses five main tables:
 19. Identify the store with the highest percentage of "Paid Repaired" claims relative to total claims filed.
 20. Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
 
-## Project Focus
+## Project Focus  
 
-This project primarily focuses on developing and showcasing the following SQL skills:
+This project aims to develop and highlight expertise in the following SQL techniques:  
 
-- **Complex Joins and Aggregations**: Demonstrating the ability to perform complex SQL joins and aggregate data meaningfully.
-- **Window Functions**: Using advanced window functions for running totals, growth analysis, and time-based queries.
-- **Data Segmentation**: Analyzing data across different time frames to gain insights into product performance.
-- **Correlation Analysis**: Applying SQL functions to determine relationships between variables, such as product price and warranty claims.
-- **Real-World Problem Solving**: Answering business-related questions that reflect real-world scenarios faced by data analysts.
+- **Advanced Joins and Aggregations**: Executing intricate SQL joins and aggregating data to extract valuable insights.  
+- **Window Functions**: Leveraging advanced window functions for computing running totals, analyzing growth trends, and conducting time-based queries.  
+- **Data Segmentation**: Examining data across different time periods to evaluate product performance effectively.  
+- **Correlation Analysis**: Utilizing SQL functions to explore relationships between variables, such as the impact of product pricing on warranty claims.  
 
 
-## Dataset
 
-- **Size**: 1 million+ rows of sales data.
-- **Period Covered**: The data spans multiple years, allowing for long-term trend analysis.
-- **Geographical Coverage**: Sales data from Apple stores across various countries.
 
 
